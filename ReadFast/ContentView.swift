@@ -4,6 +4,9 @@
 //
 //  Created by quarticAIMBP2018 on 2020-10-29.
 //
+/*
+ goal to created an updated version of iReadFast app
+ */
 
 import SwiftUI
 
